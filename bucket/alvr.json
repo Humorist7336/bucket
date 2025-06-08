@@ -5,7 +5,7 @@
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/alvr-org/ALVR/releases/download/20.13.0/alvr_streamer_windows.zip",
+            "url": "https://github.com/alvr-org/ALVR/releases/download/v20.13.0/alvr_streamer_windows.zip",
             "hash": "5d14658351531e8e7c88ff9342479558a23f0f7c34696d5d8aea9bae512b8fa0"
         }
     },
