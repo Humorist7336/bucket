@@ -1,6 +1,6 @@
 # Humorist Bucket
 
-[![Tests](https://github.com/Humorist7336/humorist-bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Humorist7336/humorist-bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Humorist7336/humorist-bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Humorist7336/humorist-bucket/actions/workflows/excavator.yml)
+[![Tests](https://github.com/Humorist7336/bucket/actions/workflows/ci.yml/badge.svg)](https://github.com/Humorist7336/bucket/actions/workflows/ci.yml) [![Excavator](https://github.com/Humorist7336/bucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/Humorist7336/bucket/actions/workflows/excavator.yml)
 
 Template bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
@@ -9,7 +9,7 @@ Template bucket for [Scoop](https://scoop.sh), the Windows command-line installe
 After manifests have been committed and pushed, run the following:
 
 ```pwsh
-scoop bucket add humorist-bucket https://github.com/Humorist7336/humorist-bucket
+scoop bucket add Humorist7336_bucket https://github.com/Humorist7336/bucket
 scoop install humorist-bucket/<manifestname>
 ```
 
